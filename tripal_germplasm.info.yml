@@ -1,0 +1,8 @@
+name: Tripal Germplasm
+type: module
+description: A core tripal module providing content types supporting germplasm management.
+package: Tripal
+core_version_requirement: ^10
+dependencies:
+  - tripal
+  - tripal_chado
